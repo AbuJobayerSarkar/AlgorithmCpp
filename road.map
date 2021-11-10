@@ -1,0 +1,386 @@
+Data-structure ½
+
+schaums outlines data-structure for details
+
+0.time and space complexity
+
+1.String,Array,pointers
+
+2.Stacks,queues,recursion
+
+3.Trees
+
+4.Graphs
+
+5.sorting,searching
+
+
+
+Algorithms 2/1
+
+1.Algorithm analysis
+
+2.Brute force
+
+3.Divide and conquer
+
+4.Dynamic
+
+5.Greedy
+
+6.Back-tracking
+
+7.Branch and bounds
+
+
+
+
+
+............................................................................DETAILS BELOW..........................................................
+
+
+
+SYLLABUS for University Data structure(from schaums outline)
+
+#Data structures with c++
+0.preliminary...........................Notation(Algorithmic nt,Asymtotic nt,complexity)
+
+1.string................................storing string,character data type,string as ADT,string operation,word text processing,pattern matching
+
+2.Arrays,Records,pointers................linear array,array as ADT,traversing linear array,bubble sort,binary search,multidimentional array,pointer arays,Dynamic memory management,records,paralllel array,matrices,sparse matrices
+
+3.Linked List............................traversing,searching,memoray allocate,garbage collection,insertion,deletion,types of linked list:cirularly,two way,header.josephus problem and solution,buddy system
+                            
+4.stacks,queues,recursion.................stack as ADT,array representation of stack,polish notation,recursion,tower of hanoy,implement of recursive procedure by stack,circular qeueus,Dqueues,priority queues,queues as ADT,linked reprasantation of Qs
+
+5.Trees.....................binary tree,traversing binary tree,traversal Algorithm using stack,threads,threaded binary tree,binary search tree,searching,inserting  & deleting in binary search tree,balanced binary tree,AVL search tree insertio deletion in AVL s.tree,searching,inserting  & deleting in  m-way search tree,searching,inserting  & deleting B-trees,B+- tree, Heap,Heap sort,Huffmans algorithm,general tree,Red-black tree
+			     
+6.Graph..................... graph theory terminology,adjacency matrix,path matrix,warshall's algorithm,linked representation of graph,operation on graph,traversing in graph,posets:topological sorting,spannig tree.
+		
+7.sorting,searching........sorting,insertion sort,selection sort,merging,merge sort,shell sort,Radix sort,Hashing
+
+
+
+
+
+
+
+
+
+
+
+
+
+.....................................................................................................................................................................................................
+
+.SYLLABUS for University ALgorithm
+
+Chapter 2 algorithm analysis base
+Asymptotic analysis of knowledge, learning algorithm time complexity of the algorithm analysis, time is the best, worst and average case time non-recursive algorithm complexity analysis, recursive algorithm complexity analysis. Space complexity of the algorithm analysis to calculate the lower bound complexity of the problem.
+
+1, the basic requirements
+
+(1) the time to understand the complexity of the analysis of relevant knowledge;
+
+(2) understand space complexity of the algorithm;
+
+(3) control algorithm of asymptotic analysis;
+
+(4) the time to master the recursive and non-recursive algorithm complexity analysis.
+
+2, important and difficult
+
+Key: The time and space complexity of the algorithm analysis, optimal algorithm;
+
+Difficulties: Analysis of time complexity.
+
+3, description: time and space complexity analysis algorithm introduces the introduction, through a specific example to explain.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in the "index 2.3 points with analysis of the computer field complex engineering problems to solve a variety of methods, comparison and evaluation capacity."
+
+Chapter 3 brute force
+
+Brute force method of learning the basic design idea of ​​how to solve the problem using brute force method to find, string matching problem, scheduling problem, combinatorial problems, graph problems, and geometric problems.
+
+1, the basic requirements
+
+(1) to understand the design of the basic idea of ​​brute force;
+
+(2) learn how to use brute force method to find the problem solving, string matching problem, scheduling problem, a combination of problems, issues, and geometric problems FIG.
+
+2, important and difficult
+
+Key: The brute force method of design ideas, identify problems, scheduling problems, combinatorial problems, graph problems, and geometric problems of brute force.
+
+Difficulties: How to use brute force to solve specific problems.
+
+3, Description: design concept focuses on brute force and how to use the brute force method of problem solving. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning experience.
+
+Chapters 4 and 5 and the divide and conquer Save Therapy (utube-A.Bari 2.x.x)
+
+Learn the basic idea of ​​the design division and subtraction rule of law rule of law, how to solve scheduling problems using divide and conquer and rule reduction method, a combination of geometric problems and issues.
+
+1, the basic requirements
+
+(1) designed to divide and conquer understood and Therapy The basic idea of ​​subtraction;
+
+(2) learn how to solve the problem using the divide and conquer sort and subtraction treatment method, combinatorial problems, issues, and geometric problems FIG.
+
+2, important and difficult
+
+Key: The design philosophy of divide and conquer and subtraction rule of law, sort of divide and conquer problems, geometric problems in the divide and conquer and rule reduction method.
+
+Difficulties: How to use divide and conquer and rule reduction method to solve specific problems.
+
+3, Description: design concept focuses on divide and conquer and rule law and how to reduce the use of divide and conquer and rule reduction method to solve the problem. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol. "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning experience.
+
+Chapter 6 Dynamic Programming (A.Bari 4.x.x)
+
+Learning multi-stage decision-making process and dynamic programming and the basic design, how to use dynamic programming to solve graph problems, combinatorial problems and find the problem.
+
+1, the basic requirements
+
+(1) to understand the design of the basic idea of ​​dynamic programming;
+
+(2) learn how to solve the problem to find, map problems and combinatorial problems such as the use of dynamic programming.
+
+2, important and difficult
+
+Key: The design concept of dynamic programming, in view of the problem of dynamic programming, combinatorial problems in dynamic programming method and find the problem of dynamic programming.
+
+3, Description: design concept focuses on dynamic programming and how to use dynamic programming method to solve the problem. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning experience.
+
+Chapter 7 greedy (A.Bari 3.x.x)
+
+Learn basic design idea of ​​greedy, greedy grasp how to use the law to resolve the problem and drawing a combination of problems.
+
+1, the basic requirements
+
+(1) to understand the design of the basic idea of ​​greedy
+
+(2) learn how to solve portfolio, illustrating a problem and geometry problems using the greedy method.
+
+2, important and difficult:
+
+It focuses on the greedy method of design ideas, greedy and combinatorial problems in view of the problem of greedy
+
+3, Description: The design focuses on how to use the greedy and greedy method of problem solving. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning experience.
+
+Chapter 8 backtracking (A.Bari 6.x.x)
+
+Learning problems solution space tree, design and performance of time backtracking backtracking, and how to use backtracking to solve the problem and drawing a combination of problems.
+
+1, the basic requirements
+
+(1) to understand the design of the basic idea of ​​backtracking;
+
+(2) learn how to use a combination of backtracking to solve problems and issues.
+
+2, important and difficult
+
+Key: The tree greedy solution of the problem space, design Backtracking, illustrating a problem of backtracking, backtracking a combination of problems.
+
+3, Description: design concept focuses on backtracking and how to use backtracking to solve the problem. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning experience.
+
+Chapter 9 branch and bound (A.Bari 7.x.x)
+
+Design and performance time branch and bound branch and bound method of learning how to use the branch and bound method to solve the problem and drawing a combination of problems.
+
+1, the basic requirements
+
+(1) understand the basic idea of ​​the design branch and bound method;
+
+(2) learn how to solve combinatorial problems and problems using a branch-and-bound.
+
+2, important and difficult
+
+Key: The design branch and bound method, the time of the performance of branch and bound, branch and bound and combinatorial problems in view of the problem in the branch and bound
+
+3, Description: design concept focuses on branch and bound and how to use the branch and bound method of problem solving. Specific examples explain binding.
+
+Teaching in this chapterSupport "Graduation Requirements Analysis 2" in "understanding 2.4 hardware design theory and method development capabilities with embedded application system" and "graduation requirements 4 Research" in the "4.2-based computer expertise to be able to determine the technical route, design viable protocol "so that students can master the basic working principle of core knowledge and expertise in each memory storage hierarchy, with a system that works hands-on learning
+
+
+
+
+
+
+
+
+
+
+
+Competitive programming(Advanced AL/DS)
+
+
+
+Graph algorithms
+
+
+
+Breadth First Search (BFS)
+
+Depth First Search (DFS)
+
+Shortest Path from source to all vertices **Dijkstra**
+
+Shortest Path from every vertex to every other vertex **Floyd Warshall**
+
+Minimum Spanning tree **Prim**
+
+Minimum Spanning tree **Kruskal**
+
+Topological Sort
+
+Johnson’s algorithm
+
+Articulation Points (or Cut Vertices) in a Graph
+
+Bridges in a graph
+
+Dynamic programming
+
+
+
+Longest Common Subsequence
+
+Longest Increasing Subsequence
+
+Edit Distance
+
+Minimum Partition
+
+Ways to Cover a Distance
+
+Longest Path In Matrix
+
+Subset Sum Problem
+
+Optimal Strategy for a Game
+
+0-1 Knapsack Problem
+
+Assembly Line Scheduling
+
+Searching and Sorting
+
+Binary Search
+
+Quick Sort
+
+Merge Sort
+
+Order Statistics
+
+KMP algorithm
+
+Rabin karp
+
+Z’s algorithm
+
+Aho Corasick String Matching
+
+Counting Sort
+
+Manacher’s algorithm: Part 1, Part 2 and Part 3
+
+Number theory and Other Mathematical
+
+
+
+Sieve of Eratosthenes
+
+Segmented Sieve
+
+Wilson’s Theorem
+
+Prime Factorisation
+
+Pollard’s rho algorithm
+
+Basic and Extended Euclidean algorithms
+
+Euler’s Totient Function
+
+Modular Exponentiation
+
+Modular Multiplicative Inverse
+
+Chinese remainder theorem Introduction
+
+Chinese remainder theorem and Modulo Inverse Implementation
+
+Counting Inversions
+
+Counting Inversions using BIT
+
+logarithmic exponentiation
+
+Square root of an integer
+
+Heavy light Decomposition , this and this
+
+Matrix Rank
+
+Gaussian Elimination to Solve Linear Equations
+
+Hungarian algorithm
+
+Geometrical and Network Flow Algorithms
+
+
+
+Convex Hull
+
+Graham Scan
+
+Line Intersection
+
+Interval Tree
+
+Matrix Exponentiation and this
+
+Maxflow Ford Furkerson Algo and Edmond Karp Implementation
+
+Min cut
+
+Stable Marriage Problem
+
+Hopcroft–Karp Algorithm for Maximum Matching
+
+Dinic’s algo
+
+Data Structures
+
+
+
+Binary Indexed Tree or Fenwick tree
+
+Segment Tree (RMQ, Range Sum and Lazy Propagation)
+
+K-D tree (See insert, minimum and delete)
+
+Union Find Disjoint Set (Cycle Detection and By Rank and Path Compression)
+
+Tries
+
+Suffix array (this, this and this)
+
+Sparse table
+
+Suffix automata
+
+Suffix automata II
+
+LCA and RMQ
+
